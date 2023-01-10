@@ -25139,18 +25139,6 @@ class Icons {
   /// <i class="material-icons-outlined md-36">video_chat</i> &#x2014; material icon named "video chat" (outlined).
   static const IconData video_chat_outlined = IconData(0xf08b6, fontFamily: 'MaterialIcons');
 
-  /// <i class="material-icons md-36">video_collection</i> &#x2014; material icon named "video collection".
-  static const IconData video_collection = IconData(0xe6a5, fontFamily: 'MaterialIcons');
-
-  /// <i class="material-icons-sharp md-36">video_collection</i> &#x2014; material icon named "video collection" (sharp).
-  static const IconData video_collection_sharp = IconData(0xed9b, fontFamily: 'MaterialIcons');
-
-  /// <i class="material-icons-round md-36">video_collection</i> &#x2014; material icon named "video collection" (round).
-  static const IconData video_collection_rounded = IconData(0xf027a, fontFamily: 'MaterialIcons');
-
-  /// <i class="material-icons-outlined md-36">video_collection</i> &#x2014; material icon named "video collection" (outlined).
-  static const IconData video_collection_outlined = IconData(0xf488, fontFamily: 'MaterialIcons');
-
   /// <i class="material-icons md-36">video_file</i> &#x2014; material icon named "video file".
   static const IconData video_file = IconData(0xf0598, fontFamily: 'MaterialIcons');
 
